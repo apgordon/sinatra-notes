@@ -1,0 +1,4 @@
+- add rescue to notes page if notes.yml is empty 
+- restructure date beside link on notes page so mm-dd-yy hh:mm
+- trick sinatra to get a form PUT method to update a note - [see here](https://gist.github.com/victorwhy/45bb5637cd3e7e879ace)
+- consider a better way to deal with the filename:title hash instead of using YAML. Feels clunky. 

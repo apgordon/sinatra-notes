@@ -1,0 +1,7 @@
+gem 'ruby', '~> 2.3.0'
+gem 'sinatra' 
+gem 'sinatra/reloader' 
+gem 'redcarpet'
+gem 'date'
+gem 'yaml'
+gem 'psych'
